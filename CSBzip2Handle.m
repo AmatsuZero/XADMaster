@@ -19,6 +19,7 @@
  * MA 02110-1301  USA
  */
 #import "CSBzip2Handle.h"
+#import "bzlib.h"
 
 NSString *CSBzip2Exception=@"CSBzip2Exception";
 
